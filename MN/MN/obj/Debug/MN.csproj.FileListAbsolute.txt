@@ -1,0 +1,5 @@
+C:\Users\Gim_Lic\Documents\Visual Studio 2013\Projects\MN\MN\bin\Debug\MN.exe.config
+C:\Users\Gim_Lic\Documents\Visual Studio 2013\Projects\MN\MN\obj\Debug\MN.csprojResolveAssemblyReference.cache
+C:\Users\Gim_Lic\Documents\Visual Studio 2013\Projects\MN\MN\obj\Debug\MN.Form1.resources
+C:\Users\Gim_Lic\Documents\Visual Studio 2013\Projects\MN\MN\obj\Debug\MN.Properties.Resources.resources
+C:\Users\Gim_Lic\Documents\Visual Studio 2013\Projects\MN\MN\obj\Debug\MN.csproj.GenerateResource.Cache
